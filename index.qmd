@@ -1,0 +1,74 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+---
+
+<div class="hero">
+<div class="hero-name">Brandon Theriault</div>
+<div class="hero-title">Senior People Research Scientist &nbsp;·&nbsp; People Analytics &amp; AI Integration</div>
+
+<p class="hero-bio">
+I design and build enterprise analytics systems at the intersection of workforce science and AI — translating people data into decisions that affect how organizations hire, develop, and retain talent. My background spans I/O psychology, machine learning, and full-stack data engineering, with experience scaling research platforms across workforces of 1M+ employees.
+</p>
+
+<p class="hero-bio" style="margin-top: 1rem;">
+Currently at <strong>Block, Inc.</strong> (Square, Cash App, TIDAL, Afterpay), where I lead people analytics research and maintain production systems processing 100,000+ records daily. Previously at <strong>Amazon</strong>, where I directed an employee experience research portfolio and co-architected Amazon Connections — a daily pulse platform reaching 500,000+ frontline associates.
+</p>
+
+<p class="hero-location">📍 Seattle, WA &nbsp;·&nbsp; <a href="mailto:b5theriault@gmail.com">b5theriault@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/b5theriault" target="_blank">linkedin.com/in/b5theriault</a></p>
+</div>
+
+<div class="stats-row">
+  <div class="stat-item">
+    <span class="stat-value">12+</span>
+    <span class="stat-label">Years Experience</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-value">1M+</span>
+    <span class="stat-label">Employees Reached</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-value">10+</span>
+    <span class="stat-label">Live Production Systems</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-value">CRAN</span>
+    <span class="stat-label">R Package Maintainer</span>
+  </div>
+</div>
+
+<p class="section-heading">Research Focus</p>
+
+**Workforce intelligence** &nbsp;·&nbsp; AI tool adoption and performance &nbsp;·&nbsp; Attrition modeling and retention risk &nbsp;·&nbsp; Organizational network analysis &nbsp;·&nbsp; NLP for employee feedback &nbsp;·&nbsp; Causal inference in people data &nbsp;·&nbsp; Predictive modeling with XGBoost & CatBoost
+
+<p class="section-heading">Selected Work</p>
+
+<div class="sample-grid" style="grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));">
+
+<div class="sample-card">
+<h3>AI Tool Adoption &amp; Performance</h3>
+<p>Correlational and regression analysis linking AI tool usage to calibrated performance ratings across H1 and H2 2025.</p>
+<a href="work-samples.qmd" class="report-link">See all work samples →</a>
+</div>
+
+<div class="sample-card">
+<h3>Predictive Modeling (XGBoost + CatBoost)</h3>
+<p>Multi-model approach to predicting performance ratings from activity signals — with feature importance, confusion matrices, and full methodology appendix.</p>
+<a href="work-samples.qmd" class="report-link">See all work samples →</a>
+</div>
+
+<div class="sample-card">
+<h3>Termination & Retention Analysis</h3>
+<p>Survival analysis, exit survey heatmaps, and high-risk departure profiles — from deep dive to executive summary format.</p>
+<a href="work-samples.qmd" class="report-link">See all work samples →</a>
+</div>
+
+</div>
+
+<p class="section-heading">Open Source</p>
+
+**gooseR** (CRAN) — R package bridging AI assistants with R development environments. Includes persistent memory management, session tracking, bulk operations, and sub-100ms streaming latency. Reduces AI-assisted coding friction by 10–20×.
+
+→ [github.com/blockbtheriault/gooseR](https://github.com/boonding/gooseR){target="_blank"}

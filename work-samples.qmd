@@ -1,0 +1,105 @@
+---
+title: "Work Samples"
+subtitle: "Interactive HTML reports built in R Markdown. All data is synthetic."
+format:
+  html:
+    toc: false
+---
+
+<p style="color: #666; font-size: 0.9rem; margin-bottom: 2rem;">
+Each report below is a self-contained interactive HTML file — click to open in a new tab. Code is hidden by default; toggle via the <strong>Code</strong> button in each report. All underlying data is synthetic and does not represent real individuals or organisations.
+</p>
+
+<div class="sample-grid">
+
+<div class="sample-card">
+<h3>AI Tool Adoption &amp; Performance Analysis</h3>
+<div class="tags">
+  <span class="tag">R</span>
+  <span class="tag">ggplot2</span>
+  <span class="tag">Pearson Correlation</span>
+  <span class="tag">OLS Regression</span>
+  <span class="tag">plotly</span>
+</div>
+<p>
+Links AI tool usage telemetry (Copilot, Cursor, Claude, ChatGPT) to calibrated H1 and H2 2025 performance ratings at the individual level. Includes department-level adoption rate analysis with simulated realistic variation, bivariate and controlled regression models, and an interactive employee data table.
+</p>
+<a href="reports/ai-adoption-performance.html" target="_blank" class="report-link">View Report →</a>
+</div>
+
+<div class="sample-card">
+<h3>Org-Wide Activity Analysis &amp; Predictive Modeling</h3>
+<div class="tags">
+  <span class="tag">R</span>
+  <span class="tag">Python</span>
+  <span class="tag">XGBoost</span>
+  <span class="tag">CatBoost</span>
+  <span class="tag">Correlation Matrix</span>
+  <span class="tag">Feature Importance</span>
+</div>
+<p>
+Integrates Slack messaging, meeting load, AI adoption, and engagement signals with H2 performance ratings. Features dual predictive models — XGBoost trained natively in R and CatBoost trained in Python with native categorical handling. Full methodology appendix documents all variables, engineered features, and statistical methods.
+</p>
+<a href="reports/block-wide-activity-ml.html" target="_blank" class="report-link">View Report →</a>
+</div>
+
+<div class="sample-card">
+<h3>Termination Deep Dive</h3>
+<div class="tags">
+  <span class="tag">R</span>
+  <span class="tag">Survival Analysis</span>
+  <span class="tag">Kaplan-Meier</span>
+  <span class="tag">Exit Survey NLP</span>
+  <span class="tag">Log-Rank Test</span>
+</div>
+<p>
+Examines 2025 departure patterns by regrettability, department, and tenure. Includes Kaplan-Meier survival curves with 95% CIs and log-rank testing, exit survey satisfaction heatmaps, high-risk departure profiles, and evidence-based retention intervention priorities across three time horizons.
+</p>
+<a href="reports/termination-deep-dive.html" target="_blank" class="report-link">View Report →</a>
+</div>
+
+<div class="sample-card">
+<h3>Termination Executive Summary</h3>
+<div class="tags">
+  <span class="tag">R</span>
+  <span class="tag">Executive Communication</span>
+  <span class="tag">Dynamic Inline R</span>
+  <span class="tag">Custom CSS</span>
+</div>
+<p>
+CEO-facing one-page summary of 2025 departure trends. KPI cards populated with live R values, root cause analysis with dynamic percentages, department impact table, and prioritised action horizons across Weeks 1–2, Month 1, and Quarter 1.
+</p>
+<a href="reports/termination-executive.html" target="_blank" class="report-link">View Report →</a>
+</div>
+
+<div class="sample-card">
+<h3>H2 2025 Performance Calibration Report</h3>
+<div class="tags">
+  <span class="tag">R</span>
+  <span class="tag">ggplot2</span>
+  <span class="tag">DT</span>
+  <span class="tag">Pre/Post Analysis</span>
+  <span class="tag">Exit Construct Validity</span>
+</div>
+<p>
+Analyses pre- and post-calibration rating distributions across functions, levels, job profiles, and promotion cohorts. Validates calibration quality via exit population construct validity check — departed employees should skew toward lower ratings, and they do.
+</p>
+<a href="reports/h2-calibration.html" target="_blank" class="report-link">View Report →</a>
+</div>
+
+<div class="sample-card">
+<h3>People Ops Ticket &amp; Chatbot Dashboard</h3>
+<div class="tags">
+  <span class="tag">R</span>
+  <span class="tag">plotly</span>
+  <span class="tag">DT</span>
+  <span class="tag">Wilcoxon Test</span>
+  <span class="tag">Service Analytics</span>
+</div>
+<p>
+Tracks HR service delivery across ticket resolution time, satisfaction scores by category, and AI chatbot vs. human agent effectiveness. Includes a channel-level satisfaction comparison with Wilcoxon rank-sum testing and a footnote on variance vs. mean as a service quality signal.
+</p>
+<a href="reports/peopleops-dashboard.html" target="_blank" class="report-link">View Report →</a>
+</div>
+
+</div>

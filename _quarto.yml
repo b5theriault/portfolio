@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Brandon Theriault"
+  description: "Senior People Research Scientist · People Analytics & AI Integration"
+  favicon: ""
+  navbar:
+    background: dark
+    foreground: light
+    title: "Brandon Theriault"
+    left:
+      - href: index.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: work-samples.qmd
+        text: Work Samples
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/b5theriault
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/boonding
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Brandon Theriault · People Research Scientist · Seattle, WA"
+    background: dark
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true

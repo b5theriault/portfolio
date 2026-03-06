@@ -1,0 +1,18 @@
+# Quarto build output (managed by quarto publish)
+_site/
+.quarto/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# R
+.Rhistory
+.RData
+
+# Python
+__pycache__/
+*.pyc
+
+/.quarto/
+**/*.quarto_ipynb
