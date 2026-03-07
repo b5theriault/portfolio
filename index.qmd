@@ -14,7 +14,7 @@ I design and build enterprise analytics systems at the intersection of workforce
 </p>
 
 <p class="hero-bio" style="margin-top: 1rem;">
-Currently at <strong>Block, Inc.</strong> (Square, Cash App, TIDAL, Afterpay), where I lead people analytics research and maintain production systems processing 100,000+ records daily. Previously at <strong>Amazon</strong>, where I directed an employee experience research portfolio and co-architected Amazon Connections — a daily pulse platform reaching 500,000+ frontline associates.
+Formerly at <strong>Block, Inc.</strong> (Square, Cash App, TIDAL, Afterpay), where I lead many aspects of people analytics research and maintain production systems processing. My team was affected by the Feb 2026 layoffs. Previously at <strong>Amazon</strong>, where I directed an employee experience research portfolio and co-architected Amazon Connections — a daily pulse platform reaching 500,000+ frontline associates.
 </p>
 
 <p class="hero-location">📍 Seattle, WA &nbsp;·&nbsp; <a href="mailto:b5theriault@gmail.com">b5theriault@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/b5theriault" target="_blank">linkedin.com/in/b5theriault</a></p>
