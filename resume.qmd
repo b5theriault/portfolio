@@ -55,6 +55,7 @@ Strategic People Research Scientist and AI integration leader with 12+ years of 
 - Selected for the high-potential Global HR Early Talent program, partnering directly with company leaders across functions.
 - Led global research that streamlined organisational restructuring, reducing process time by 80% ($2M annual savings).
 - Tracked metrics and lead projects to increase diversity representation through targeted workforce analytics projects. Orchestrated company-wide People & Diversity Week for 50,000+ participants.
+
 ---
 
 <p class="resume-section">Technical Skills &amp; Open Source</p>
